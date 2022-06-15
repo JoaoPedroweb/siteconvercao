@@ -1,2 +1,3 @@
 # Página de Captura ( Lead Page) 
-Últilizei css, Html 
+
+Pagina a onde pude praticar o css, html. 
